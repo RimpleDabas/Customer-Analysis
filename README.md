@@ -35,7 +35,7 @@ The dataset have 12 columns and 10000 rows
 - churn                  bool
 
 Here are the few analysis and insights. For more detailed code and analysis
-please refer [here](Customer-Analysis\Analysis.ipynb)
+please refer [here](https://github.com/RimpleDabas/Customer-Analysis/blob/main/Analysis.ipynb)
 ### Analysis based on demography and gender 
  Overall Churn Rate by Country:
 
