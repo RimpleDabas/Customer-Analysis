@@ -34,7 +34,8 @@ The dataset have 12 columns and 10000 rows
 - estimated_salary    float64
 - churn                  bool
 
-Here are the few analysis and insights.
+Here are the few analysis and insights. For more detailed code and analysis
+please refer [here](Customer-Analysis\Analysis.ipynb)
 ### Analysis based on demography and gender 
  Overall Churn Rate by Country:
 
